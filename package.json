@@ -1,0 +1,15 @@
+{
+  "name": "piliang_zhushi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"watermark": "node add-watermark.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^5.4.1"
+  }
+}
